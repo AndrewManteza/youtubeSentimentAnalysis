@@ -2,18 +2,17 @@
 
 ## Steps
 
-1. Reddit API
-2. Raw JSON
-3. pandas
-4. Clean text
-5. Sentiment Analysis
-6. Semantic Embeddings
-7. Topic/Cluster Analysis
-8. Aggregate by month/year/creative field
-9. Merge with AI adoption data
-10. Correlation / Regression
-11. Seaborn / Matplotlib / Plotly
-12. Web presentation
+1. Youtube API
+2. pandas to csv
+3. Clean text
+4. Sentiment Analysis
+5. Semantic Embeddings
+6. Topic/Cluster Analysis
+7. Aggregate by month/year/creative field
+8. Merge with AI adoption data
+9. Correlation / Regression
+10. Seaborn / Matplotlib / Plotly
+11. Web presentation
 
 
 ### Libraries: 
