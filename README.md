@@ -1,3 +1,5 @@
+# May Shift to Youtube comment section data rather than Reddit due to difficulty obtaining access to Reddit API 
+
 ## Steps
 
 1. Reddit API
